@@ -1,0 +1,33 @@
+
+                    /* BRACKPOINTS */
+
+
+
+/* Dispositivos Pequenos */
+@media(min-width: 576px){
+    body{
+        background: pink;
+    }
+}
+
+/* Dispositivos Médios*/
+@media(min-width: 768px){
+    body{
+        background: purple;
+    }
+}
+
+/* Dispçositivos Grandes */
+@media(min-width: 992px){
+    body{
+        background: yellow;
+    }
+
+}
+
+/* Dispositivos Enormes */
+@media(min-width: 1200px){
+    body{
+        background: gray;
+    }
+}
